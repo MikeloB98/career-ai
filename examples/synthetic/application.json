@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "job_id": "synthetic-materials-role",
+  "cv_sections": [
+    {
+      "heading": "Summary",
+      "content": ["Materials engineer with laboratory testing, Python analysis and procedure-development experience."]
+    },
+    {
+      "heading": "Experience",
+      "content": ["Planned experiments, operated thermal and mechanical testing equipment, and analyzed results.", "Coordinated test schedules with research and production colleagues."]
+    },
+    {
+      "heading": "Skills",
+      "content": ["Materials testing", "Python", "Technical documentation"]
+    }
+  ],
+  "cover_letter_sections": [
+    {
+      "heading": "Opening",
+      "content": ["I am interested in applying my laboratory testing and data-analysis experience to materials decisions in an industrial setting."]
+    },
+    {
+      "heading": "Evidence",
+      "content": ["My experience includes planning experiments, operating test equipment, analyzing results in Python and documenting repeatable procedures."]
+    },
+    {
+      "heading": "Close",
+      "content": ["I would welcome the opportunity to discuss how this foundation could support the team while I develop deeper manufacturing failure-analysis experience."]
+    }
+  ],
+  "omitted_claims": ["Direct ownership of manufacturing failure analysis"],
+  "review_notes": ["Synthetic example; replace with evidence-bound candidate content."]
+}

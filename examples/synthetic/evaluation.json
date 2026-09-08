@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0",
+  "job_id": "synthetic-materials-role",
+  "recommendation": "apply",
+  "summary": "The verified testing, analysis and coordination experience supports a credible application.",
+  "strengths": [
+    "Direct laboratory testing experience",
+    "Python data analysis",
+    "Procedure documentation and cross-functional coordination"
+  ],
+  "gaps": [
+    "No verified manufacturing failure-analysis ownership"
+  ],
+  "conditions": [],
+  "evidence_used": [
+    "profile: laboratory equipment",
+    "profile: Python analysis",
+    "profile: test scheduling"
+  ],
+  "confidence": 0.84
+}
