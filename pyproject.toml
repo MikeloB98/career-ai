@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "career-ai-agent"
+version = "0.1.0"
+description = "Local-first, provider-neutral career workflow"
+readme = "README.md"
+requires-python = ">=3.11"
+license = "MIT"
+dependencies = ["pydantic>=2.8,<3"]
+
+[project.urls]
+Homepage = "https://github.com/MikeloB98/career-ai"
+Repository = "https://github.com/MikeloB98/career-ai"
+Issues = "https://github.com/MikeloB98/career-ai/issues"
+
+[project.scripts]
+career-ai = "career_ai.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
