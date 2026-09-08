@@ -12,7 +12,7 @@ external action themselves.
 Python 3.11 or newer is required.
 
 ```bash
-pipx install git+https://github.com/YOUR-USER/career-ai.git
+pipx install git+https://github.com/MikeloB98/career-ai.git
 ```
 
 For local development:

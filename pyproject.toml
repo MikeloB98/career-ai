@@ -11,6 +11,11 @@ requires-python = ">=3.11"
 license = "MIT"
 dependencies = ["pydantic>=2.8,<3"]
 
+[project.urls]
+Homepage = "https://github.com/MikeloB98/career-ai"
+Repository = "https://github.com/MikeloB98/career-ai"
+Issues = "https://github.com/MikeloB98/career-ai/issues"
+
 [project.scripts]
 career-ai = "career_ai.cli:main"
 
